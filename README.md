@@ -22,3 +22,12 @@ _______
 + *The application gives customers a real opportunity to visualize the future haircut*The app reduces the risk of a bad choice and improves the customer experience at the barbershop
 + *The app reduces the risk of a bad choice and improves the customer experience at the barbershop*
 + *The application will allow hairdressers to better understand the client's wishes and perform a haircut more accurately and efficiently.*
+_______
+## ***The repository will contain the following components and functionality:***
+1. *Using Unity3D, a popular engine for creating virtual reality.*
+2. *Creating and modeling a virtual avatar of a user.*
+3. *Database with a wide selection of different styles and haircuts to choose from.*
+4. *Implementation of the functions of rotation, approximation and distance of the virtual avatar model.*
+5. *User interface for choosing haircut parameters such as length, color and hair style.*
+6. *Optimization of the application to ensure smoothness and comfort of virtual viewing haircuts.*
+7. *Integration with VR devices to fully immerse the user in a virtual environment.*
