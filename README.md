@@ -7,3 +7,4 @@ ______
 
 _____
 ## ***The problem in this area:***
+### *Usually, clients have to rely on the words of the hairdresser and photos to get an idea of what their new haircut will look like. However, this may not be accurate enough and may lead to frustration. Or the clients themselves do not know how to cut their hair in a new way and do not dare to change the style, because they simply do not know how they will look with a new hairstyle.*
