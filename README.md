@@ -35,4 +35,4 @@ _______
 6. *Optimization of the application to ensure smoothness and comfort of virtual viewing haircuts.*
 7. *Integration with VR devices to fully immerse the user in a virtual environment.*
 ________
-### *The goal of this startup is to simplify the process of choosing and selecting haircuts in a barber shop by using advanced virtual reality technologies. Hair cutting is often an important and long-term process, and the quality of the chosen haircut can significantly affect a person's mood and well-being. However, choosing a haircut can be a difficult and long process when many different options are considered.*
+### *The goal of this startup is to simplify the process of choosing and selecting haircuts in a barber shop by using advanced virtual reality technologies. Hair cutting is often an important and long-term process, and the quality of the chosen haircut can significantly affect a person's mood and well-being.*
