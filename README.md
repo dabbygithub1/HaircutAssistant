@@ -1,1 +1,2 @@
 # HaircutAssistant
+## Header 2
