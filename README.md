@@ -3,6 +3,6 @@
 ______
 ### ***Subject area:*** *Barber shop.*
 <img src="https://usercontent.one/wp/www.queenstownbarbers.com/wp-content/uploads/2018/01/about-us-image.jpg">
-_
+______
 
 ## ***The problem in this area:***
