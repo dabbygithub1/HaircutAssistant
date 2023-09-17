@@ -1,4 +1,6 @@
+<p align="center">
 # HaircutAssistant
+</p>
 ## The HaircutAssistant repository contains the source code and resources for developing an application that allows users to conveniently select and choose a haircut in virtual reality.
 ______
 ### ***Subject area:*** *Barber shop.*
