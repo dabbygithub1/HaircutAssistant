@@ -14,6 +14,7 @@ _____
 ______
 ## ***The solution to the problem:***
 ### *The HaircutAssistant application offers a unique solution to this problem! The application uses virtual reality technology to allow customers to "try on themselves" different haircuts without touching scissors and a clipper. When visiting a barbershop, the client will have the opportunity to put on virtual glasses and look at various options for haircuts in real time. When the client chooses his suitable haircut, the hairdresser will be able to get to work, having a visual idea of what and how to do.*
+<img src="https://img.ixbt.site/live/topics/preview/00/03/89/15/ca8e9d8e4a.png">
 _______
 ## ***Advantages of the application:***
 + *Users will be able to choose a haircut from various styles, hair lengths, colors and even experiment with hairstyles of different eras or famous personalities, and then view them on their own virtual avatar.*
